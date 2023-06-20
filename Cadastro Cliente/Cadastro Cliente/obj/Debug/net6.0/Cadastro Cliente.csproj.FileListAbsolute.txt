@@ -1,0 +1,31 @@
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\bin\Debug\net6.0\appsettings.json
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\bin\Debug\net6.0\Cadastro Cliente.staticwebassets.runtime.json
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\bin\Debug\net6.0\Cadastro Cliente.exe
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\bin\Debug\net6.0\Cadastro Cliente.deps.json
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\bin\Debug\net6.0\Cadastro Cliente.runtimeconfig.json
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\bin\Debug\net6.0\Cadastro Cliente.dll
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\bin\Debug\net6.0\Cadastro Cliente.pdb
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\Cadastro Cliente.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\Cadastro Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\Cadastro Cliente.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\Cadastro Cliente.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\Cadastro Cliente.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\Cadastro Cliente.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\Cadastro Cliente.RazorAssemblyInfo.cache
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\Cadastro Cliente.RazorAssemblyInfo.cs
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\staticwebassets\msbuild.Cadastro Cliente.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\staticwebassets\msbuild.build.Cadastro Cliente.props
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cadastro Cliente.props
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cadastro Cliente.props
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\scopedcss\bundle\Cadastro Cliente.styles.css
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\scopedcss\projectbundle\Cadastro Cliente.bundle.scp.css
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\Cadastro Cliente.dll
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\refint\Cadastro Cliente.dll
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\Cadastro Cliente.pdb
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\Cadastro Cliente.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\projeto\Cadastro Cliente\Cadastro Cliente\obj\Debug\net6.0\ref\Cadastro Cliente.dll
